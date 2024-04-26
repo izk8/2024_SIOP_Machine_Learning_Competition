@@ -15,3 +15,44 @@ Benchmark Datasets
 - Generating Interview Responses: Job candidates responded to 5 common interview questions. You will be given the text of 4 question and response pairs. Your task is to generate a likely text response for the 5th question based on the previous responses. 
 - Rating Item Clarity: Respondents rated the clarity of personality test items using a 7-point scale from 1 = extremely unclear to 7 = extremely clear. Your task is to predict the average clarity rating for each item based on the responses.
 - Identifying Fairness Perceptions: Respondents compared two organizational policies and voted on which was fairest. Your task is to identify which policy received the majority vote as the fairer option.
+
+## Winning Solutions 
+Please visit the [competition slide deck](https://github.com/izk8/2024_SIOP_Machine_Learning_Competition/blob/main/SIOP%202024%20ML%20Competition%20Deck.pdf) for an overview of this year's competition and winners. 
+
+### 1st place: PAID Team 
+
+Final score = **.666**
+
+### 2nd place: Akben&AAron&Elon
+
+- Mustafa Akben
+- Aaron Satko
+
+Final score = **.652**
+
+[Akben&AAron&Elon's solution]()
+
+### 3rd place: Hungry Llama
+
+- Jennifer Gibson
+- Shane Halder
+- Blake Hoffman
+- Hannah Johnson
+- Joseph Nicolas Luchman
+- Nick McCann
+- Selena Tran
+
+Final score = **.643**
+
+[Hungry Llama's solution](https://github.com/izk8/2024_SIOP_Machine_Learning_Competition/blob/main/03%20-%20Hungry%20Llama/Fors%20Marsh.pdf)
+
+### 4th place: Wonderlic ML
+
+- Guglielmo Menchetti (Wonderlic)
+- Lea Cleary (Wonderlic)
+- Annie Brinza (Wonderlic)
+
+Final score = **.630**
+
+[Wonderlic ML's solution](https://github.com/izk8/2024_SIOP_Machine_Learning_Competition/blob/main/04%20-%20Wonderlic%20ML/Wonderlic.pdf)
+
