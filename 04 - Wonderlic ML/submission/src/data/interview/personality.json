@@ -1,0 +1,33 @@
+{
+    "openness": {
+        "definition": "Openness is how open an individual is to new experiences.  Scoring low in openness means someone tends to be very grounded and practical, preferring routine and tradition.  They dislike change and may have a low tolerance for views which are radically different from their own.  Scoring high in openness, on the other hand, means someone enjoys variety and trying new things.  They are curious, inquisitive, and original, with a wide array of interests.",
+        "low": "you are very grounded and practical, preferring routine and tradition.  You dislike change and may have a low tolerance for views which are radically different from your own.",
+        "moderate": "you are moderately open to new experiences.",
+        "high": "you enjoy variety and trying new things.  You are curious, inquisitive, and original, with a wide array of interests."
+    },
+    "conscientiousness": {
+        "definition": "Conscientiousness is how organized and goal-driven an individual may be.  Scoring low in conscientiousness means someone is impulsive, spontaneous, and prone to procrastination.  They tend to be disorganized and scatterbrained.  Scoring high in conscientiousness, on the other hand, means someone is highly organized, dependable, and responsible.  They are driven, with a high level of self-discipline, and tend to strive for excellence. ",
+        "low": "you are impulsive, spontaneous, and prone to procrastination.  You tend to be disorganized and scatterbrained.",
+        "moderate": "you are moderately organized and goal-driven.",
+        "high": "you are highly organized, dependable, and responsible.  You are driven, with a high level of self-discipline, and tend to strive for excellence."
+    },
+    "extraversion": {
+        "definition": "Extraversion is how energetic, enthusiastic, and sociable an individual may be.  Scoring low in extraversion means someone is reserved, introspective, and private.  They tend to take time to open up to new people and prefer low-key activities where they are not the center of attention.  Scoring high in extraversion, on the other hand, means someone is outgoing and friendly.  They tend to be optimistic and popular, having a high level of energy, and enjoy being the center of attention.",
+        "low": "you are reserved, introspective, and private.  You tend to take time to open up to new people and prefer low-key activities where you are not the center of attention.",
+        "moderate": "you are moderately energetic, enthusiastic, and sociable.",
+        "high": "you are outgoing and friendly.  You tend to be optimistic and popular, having a high level of energy, and enjoy being the center of attention."
+    },
+    "agreeableness": {
+        "definition": "Agreeableness is how modest, altruistic, and honest an individual may be.  Scoring low in agreeableness means someone is more practical than altruistic, often described as hardheaded.  They tend to be critical of others and are not concerned with what others think of them.  Scoring high in agreeableness, on the other hand, means someone is loyal, trustworthy, compassionate, and supportive.  They enjoy helping others and prefer to avoid confrontations.",
+        "low": "you are more practical than altruistic, often described as hardheaded.  You tend to be critical of others and are not concerned with what others think of you.",
+        "moderate": "you are moderately altruistic, modest, and honest.",
+        "high": "you are loyal, trustworthy, compassionate, and supportive.  You enjoy helping others and prefer to avoid confrontations."
+    },
+    "emotional_stability": {
+        "definition": "Emotional stability is how sensitive, emotional, and prone to worry an individual may be.  Scoring low in emotional stability means someone feels their emotions intensely and gets upset easily.  They tend to be impulsive, pessimistic, and struggle to cope with stress.  Scoring high in emotional stability, on the other hand, means someone is even-tempered and has good control over their emotions.  They are slow to anger and tend to be cool under pressure.",
+        "low": "you feel your emotions intensely and get upset easily.  You tend to be impulsive, pessimistic, and struggle to cope with stress. ",
+        "moderate": "you are moderately sensitive and emotional.",
+        "high": "you are even-tempered and have good control over your emotions.  You are slow to anger and tend to be cool under pressure."
+    },
+    "Reference": "https://warwick.ac.uk/services/dc/phdlife/wellbeing/potentialadvantage/personality_and_wellbeing_results/"
+}

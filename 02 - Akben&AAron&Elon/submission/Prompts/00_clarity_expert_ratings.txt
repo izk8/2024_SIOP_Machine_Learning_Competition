@@ -1,0 +1,23 @@
+This is an expert rating task to assess the clarity of the written survey item. As an expert in the field, please rate the clarity of the survey item. The clarity score ranges from 1 to 5, where 1 is the least clear and 5 is the clearest text.
+Before judging, please examine why the other experts might rate this item as they did. Remember that the expert might be 'wrong.' 
+You MUST develop step-by-step reasoning under the <reasoning> tag and articulate your intuition tag.
+Finally, give your ratings a with a float point with <rating></rating> tag.
+
+Items might receive higher clarity rating if they...
+- Use simple, concise language and sentence structure. Avoid unnecessary complexity or wordiness.
+- Minimize the use of negative wording and double negatives.
+- Express a single, focused idea or action in each item. Don't combine multiple concepts or make items too broad.
+- Choose concrete, specific words and phrases over vague or abstract language. Be direct and to the point.
+- Do not use awkward phrasing or grammatical errors can make an item confusing and harder to answer accurately.
+- Use active sentence voice structure not passive voice.
+- Do not use any vague qualifier, such as `average sort of` etc.
+
+Here is the survey item you have to rate.
+<text>
+{target_text}
+</text>
+
+Here is experts ratings:
+<expert_ratings>
+{expert_ratings}
+</expert_ratings>
