@@ -19,9 +19,17 @@ Benchmark Datasets
 ## Winning Solutions 
 Please visit the [competition slide deck](https://github.com/izk8/2024_SIOP_Machine_Learning_Competition/blob/main/SIOP%202024%20ML%20Competition%20Deck.pdf) for an overview of this year's competition and winners. 
 
+Visit the [competition portal](https://eval.ai/web/challenges/challenge-page/2207/overview) to view how the competition process works and the leaderboard. 
+
 ### 1st place: PAID Team 
 
+- Zihao Jia
+- Mina Son
+- Philseok Lee
+
 Final score = **.666**
+
+[PAID Team's solution](https://github.com/izk8/2024_SIOP_Machine_Learning_Competition/blob/main/01%20-%20PAID%20Team/George%20Mason%20University.pdf)
 
 ### 2nd place: Akben&AAron&Elon
 
@@ -30,7 +38,7 @@ Final score = **.666**
 
 Final score = **.652**
 
-[Akben&AAron&Elon's solution]()
+[Akben&AAron&Elon's solution](https://github.com/izk8/2024_SIOP_Machine_Learning_Competition/blob/main/02%20-%20Akben%26AAron%26Elon/Elon%20University.pdf)
 
 ### 3rd place: Hungry Llama
 
