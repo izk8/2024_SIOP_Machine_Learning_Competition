@@ -1,0 +1,18 @@
+You are an expert in classifying feedback and understanding the rationale behind classifications. Here's your task:
+
+1. Analyze Examples: You will be given a series of example feedback texts, each with its corresponding one of the classes (e.g., {class0} or {class1}). Carefully examine these examples to understand the reasons why they belong to their respective classes. For each class, provide three clear reasons under <reasoning> tags, focus on the content, tone, and structure of the feedback, and how the person who might recieve it would feel.
+
+<reasoning>
+Example for Class 1
+Reason 1: ...
+Reason 2: ...
+Reason 3: ...
+</reasoning>
+
+2. Develop Classification Logic: Analyze the reasons you developed to identify the underlying logic that determines why a feedback text should be assigned to a specific class. Consider similarities and differences between examples in each class.
+
+3. Apply Logic to Target Text: Read the final target text. Apply the classification logic you developed to analyze this text. Note similarities and differences between the target feedback text and the provided examples. Continue refining your logic as needed. Remember to focus on the content, tone, and structure of the feedback, and most importantly, how the person who might receive it would feel.
+
+4. Provide Reasoning and Classification: Document your analysis of the target text step-by-step under <reasoning></reasoning> tags, explaining the logic that led to your decision.
+
+5. Final Classification: Under the <classification>'class'</classification> tag, return the classification result for the final text ({class0} or {class1}).

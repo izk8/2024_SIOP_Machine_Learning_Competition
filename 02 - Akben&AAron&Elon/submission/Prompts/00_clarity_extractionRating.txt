@@ -1,0 +1,86 @@
+You will be analyzing a set of survey item texts and their corresponding clarity scores to identify patterns that distinguish items that received high clarity scores from those that received low scores.
+
+Here are the survey item texts:
+
+<survey_item_and_clarity_scores>
+{ id: 23; text: Hold back my opinions.; score: 5.00 }
+{ id: 20; text: Get lost in my dreams.; score: 4.96 }
+{ id: 1; text: Make problems bigger than they are.; score: 4.88 }
+{ id: 2; text: Judge people by their appearance.; score: 4.88 }
+{ id: 28; text: Work longer hours than most people.; score: 4.68 }
+{ id: 25; text: Believe that criminals should receive help rather than punishment.; score: 4.68 }
+{ id: 27; text: Do things that others find strange.; score: 4.64 }
+{ id: 26; text: Try out new things.; score: 4.64 }
+{ id: 7; text: Have a hard time cheering myself up.; score: 4.64 }
+{ id: 6; text: Dislike children's birthday parties.; score: 4.64 }
+{ id: 14; text: Dislike loud music.; score: 3.60 }
+{ id: 22; text: Blend into the crowd.; score: 3.56 }
+{ id: 8; text: Have no need for close friendships.; score: 3.56 }
+{ id: 11; text: Crave the experience of great art.; score: 3.52 }
+{ id: 12; text: Believe that one needs to show their talents and abilities in order to get opportunities and make progress.; score: 3.44 }
+{ id: 29; text: Rarely overindulge.; score: 3.40 }
+{ id: 21; text: Look for something to hold on to.; score: 3.40 }
+{ id: 4; text: Feel that very few merchants take advantage of their customers.; score: 3.40 }
+{ id: 9; text: Am filled with doubts about things.; score: 1.80 }
+{ id: 3; text: Did not feel like eating, even though I should have been hungry.; score: 1.80 }
+{ id: 15; text: Tend to become agitated whenever I have to sit and wait for something (for instance, in a waiting room).; score: 1.80 }
+{ id: 24; text: Am able to work hard to achieve results that I will only get at a time far in the future.; score: 1.60 }
+{ id: 19; text: Am usually in an average sort of mood, not too high and not too low.; score: 1.56 }
+{ id: 16; text: Am not good at knowing human nature.; score: 1.44 }
+{ id: 0; text: Am considered well-off financially.; score: 1.44 }
+{ id: 18; text: Am hard to convince.; score: 1.36 }
+{ id: 13; text: Do not exercise on a regular basis.; score: 1.24 }
+{ id: 10; text: Can control the outcome of events.; score: 1.20 }
+{ id: 17; text: Am considered by others to be weird.; score: 1.12 }
+{ id: 5; text: Am a sadistic person.; score: 1.00 }
+</survey_item_and_clarity_scores>
+
+Please carefully review the survey item texts and their scores. Look for characteristics and patterns that tend to result in high clarity scores vs low clarity scores. Focus on things like:
+
+- Word choice and vocabulary level
+
+- Sentence structure and complexity
+
+- Specificity and concreteness of language
+
+- Logical flow and organization of ideas
+
+- Grammatical correctness
+
+- Appropriate length and level of detail
+
+- Avoidance of jargon or insider terminology
+
+- Clarity of action words and key terms
+
+- Use of examples or analogies to explain concepts
+
+- Formatting and visual presentation
+
+- Specificity and clarity in the languge used
+
+Aim to identify at least 10 or more distinct reasons that seem to explain why certain items are rated as more or less clear. For each reason you identify, provide a brief explanation and cite 1-2 examples similar to provided text, but not the same as the examples and provide their clarity scores. Provide both low and high clarity examples for each reason.
+
+Present your findings in a <reasons> section, with each reason contained in its own <reason> tag like this:
+
+<reasons><reason>
+
+Reason 1: [explanation]
+
+[example 1]
+
+[example 2]
+
+</reason><reason>
+
+Reason 2: [explanation]
+
+[example 1]
+
+</reason>
+
+...
+
+</reasons>
+
+Focus on the most important and impactful reasons. Avoid redundancy between reasons. Let me know if you need any clarification or have questions!

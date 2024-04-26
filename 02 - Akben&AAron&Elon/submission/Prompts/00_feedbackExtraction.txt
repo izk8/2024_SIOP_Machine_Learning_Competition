@@ -1,0 +1,10 @@
+# Extractive Summary Task.
+Here is some text that contains feedback on a report written by an employee, but also includes greetings and other unnecessary parts:
+
+<feedback_text>
+{text}
+</feedback_text>
+
+Your task is to extract only the actual feedback on the report writing parts from the text above. Omit any greetings, sign-offs, or other parts that are not directly relevant to the feedback being given.
+
+Return your response with the extracted feedback inside <response></response> tags. Do not add any additional commentary or text to your response - only include the extracted feedback parts inside the tags.

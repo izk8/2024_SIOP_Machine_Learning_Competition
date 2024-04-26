@@ -1,0 +1,34 @@
+In this task, you will be analyzing a piece of feedback given to an employee to determine whether it demonstrates empathy, perspective taking, and encouragement. Finally, you will classify the feedback either as `{class1}` or `{class2}`.
+
+Here is the target feedback to analyze:
+
+<target_feedback>
+{target_text}
+</target_feedback>
+
+Here are the example responses:
+<examples>
+-------------------
+<example1>
+{example1}
+</example1>
+-------------------
+<example2>
+{example2}
+</example2>
+-------------------
+<example3>
+{example3}
+</example3>
+-------------------
+</examples>
+
+Please read the target feedback carefully, paying attention to the language used, the flow of the feedback, and the tone.
+
+Then, in a <reasoning></reasoning> section, go through the target feedback sentence by sentence and analyze why this target feedback is either as `{class1}` OR `{class2}`.
+
+Note any specific word choices or phrases that make the target feedback either as `{class1}` OR `{class2}`. Also comment on how the sentences flow together and the overall tone.
+
+After you've analyzed each sentence, write a final <analysis></analysis> section that summarizes why this target feedback is an example of an `{class1}` OR `{class2}`, based on your reasoning.
+
+Finally, provide your classification decision in <classification></classification> section.
