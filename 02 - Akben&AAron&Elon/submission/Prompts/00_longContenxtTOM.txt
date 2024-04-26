@@ -1,9 +1,0 @@
-Please predict the target text and determine whether it belongs to class 1 or class 2. Analyze the examples, understand the reasoning behind the classification, and make your final decision for the target text. To do this, first extract the distinct points from the examples that explain why the classes are structured the way they are. When you analyze the classes, focus on the style, tone, emotive content, directness, and solution-oriented content. Also, add a "theory of mind" section where you analyze how the person who will receive these two classes of feedback might feel and be motivated. Then, develop a reasoning logic with 5 questions. Apply these 5 questions to the final target and make your final decision on whether the target text belongs to class 1 or class 2. Finally, decide the probabilities of classification into the class 1 and class 2.
-
----
-# Examples
-{examples}
----
-
-# Target Text
-{target_text}
