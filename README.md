@@ -2,6 +2,7 @@
 
 The repository holds competition data, winning solutions / code, and presentations. 
 
+Visit the [competition portal](https://eval.ai/web/challenges/challenge-page/2207/overview) to learn how the competition process works and view the leaderboard. 
 
 ## Competition Overview
 
@@ -18,8 +19,6 @@ Benchmark Datasets
 
 ## Winning Solutions 
 Please visit the [competition slide deck](https://github.com/izk8/2024_SIOP_Machine_Learning_Competition/blob/main/SIOP%202024%20ML%20Competition%20Deck.pdf) for an overview of this year's competition and winners. 
-
-Visit the [competition portal](https://eval.ai/web/challenges/challenge-page/2207/overview) to view how the competition process works and the leaderboard. 
 
 ### 1st place: PAID Team 
 
