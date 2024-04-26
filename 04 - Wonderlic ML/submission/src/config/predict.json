@@ -26,7 +26,7 @@
         "interpretation_fp": "data/interview/personality.json",
         "results_fp": "results/test"
       },
-      "secret_key": "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"
+      "secret_key": "YOUR-API-KEY"
     },
     "fairness": {
       "model_params": {
@@ -44,7 +44,7 @@
         "test_data_fp": "data/fairness/fairness_test.csv",
         "predictions_path": "results/test"
       },
-      "secret_key": "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"
+      "secret_key": "YOUR-API-KEY"
     },
     "clarity": {
       "device": "cuda",
